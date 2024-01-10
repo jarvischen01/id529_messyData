@@ -1,5 +1,11 @@
 # id529_messyData
 
-This repository contains a csv with simulated data and a R script for the Cleaning Messy Data activity on Day 3 of ID529.
+Code for ID529 Day 3: Activity: Data Cleaning with Messy Data. We will walk through the code in id529_day3_messyData.R
 
-You can download messy_data.csv and the cleaningMessyData.R script or clone this repository and follow along in class.
+You can:
+
+Download a .zip file of this repository and run and annotate the code in id529_day3_messyData.R
+Clone the repository and do the same.
+Just follow along in the lecture.
+
+messyData.csv is a small comma-delimited file with simulated data.
