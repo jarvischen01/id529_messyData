@@ -9,3 +9,6 @@ Clone the repository and do the same.
 Just follow along in the lecture.
 
 messyData.csv is a small comma-delimited file with simulated data.
+
+Here's a schematic of the data cleaning steps we're taking.
+![cleaning messy data steps](data_cleaning_steps.png)
