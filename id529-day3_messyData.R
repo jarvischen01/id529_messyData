@@ -10,7 +10,7 @@ p_load(tidyverse)
 p_load(scales)
 
 # Read in the messy data from csv
-messy_data <- read_csv("day3/activity-data-cleaning/messy_data.csv")
+messy_data <- read_csv("messy_data.csv")
 
 View(messy_data)
 
