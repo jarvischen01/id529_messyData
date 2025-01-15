@@ -5,9 +5,8 @@
 
 # Dependencies and setup ------------------------------------------------------------
 
-library(pacman)
-p_load(tidyverse)
-p_load(scales)
+library(tidyverse)
+library(scales)
 
 # Read in the messy data from csv
 messy_data <- read_csv("messy_data.csv")
